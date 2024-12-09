@@ -1,3 +1,7 @@
+# Code from Luise Nagel
+
+## Summarizing data.frames from earlier analysis required (see previous R scripts)
+
 source("3b_Functions4DEAnalysis.R")
 library(ggplot2)
 library(MethComp)
