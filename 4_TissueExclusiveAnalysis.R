@@ -1,3 +1,5 @@
+# Code from Luise Nagel
+
 # Retrieving tissue exclusive genes
 ## Filtering data, removing some cell types, removing groups of cells if not detected often enough in specific donor (min 49 cells)
 f2SE <- allSE
