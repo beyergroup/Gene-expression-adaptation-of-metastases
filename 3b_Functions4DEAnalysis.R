@@ -1,3 +1,5 @@
+# Code from Luise Nagel
+
 # Getting pseudo-bulk expression values 
 estimateMeanExp <- function(SE, matName, logT = F, ctName, ct2compare = NULL, ct2filter = NULL, donorName = NULL, minFeature = NULL, minFeaturePerc = NULL, minCells = 1, normLib = 10000){
     if(logT == F){
